@@ -15,7 +15,7 @@
   },
   "main": "lib/index.js",
   "dependencies": {
-    "algoliasearch": "^4.17.1",
+    "algoliasearch": "^4.24.0",
     "axios": "^1.6.0",
     "dayjs": "^1.11.8",
     "firebase-admin": "^11.8.0",
