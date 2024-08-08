@@ -19,7 +19,7 @@
     "axios": "^1.6.0",
     "dayjs": "^1.11.8",
     "firebase-admin": "^11.8.0",
-    "firebase-functions": "^4.3.1",
+    "firebase-functions": "^4.9.0",
     "html-to-text": "^9.0.5",
     "marked": "^5.1.0"
   },
