@@ -45,7 +45,7 @@
     "@typescript-eslint/parser": "^5.47.0",
     "@walletconnect/web3-provider": "^1.8.0",
     "algoliasearch": "^4.17.1",
-    "antd": "^5.0.7",
+    "antd": "^5.19.2",
     "argon2": "^0.30.3",
     "bignumber.js": "^9.1.1",
     "bn.js": "^5.2.1",
